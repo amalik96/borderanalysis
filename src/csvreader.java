@@ -106,7 +106,7 @@ public class csvreader {
 	}
 
 	public static void main(String[] args) {
-		String inputFile = "Border_Crossing_Entry_Data.csv";
+		String inputFile = "input/Border_Crossing_Entry_Data.csv";
 		File file = null;
 		BufferedReader br = null;
 		String outputDir = "output";
