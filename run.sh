@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "compiling..."
-javac csvreader.java Entry.java
+javac src/csvreader.java src/Entry.java
 
 echo "executing..."
 java csvreader
